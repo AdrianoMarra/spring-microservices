@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ms-subject
+    
+  cloud:
+   config:
+     uri: http://localhost:8001
